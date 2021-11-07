@@ -4,12 +4,12 @@ This repository contains a robust pupil tracking algorithm that incorporates RAN
 <p align="center">
   <img width="300" height="250" src="https://github.com/nphilip1098/pupiltrack-nystagmus/blob/main/results/vogframes.jpg">
 </p>
-
-<p align="center">
+1. VOG Data#1<br/>
+<br/><p align="center">
   <img width="750" height="250" src="https://github.com/nphilip1098/pupiltrack-nystagmus/blob/main/results/ransacvnormal.png">
 </p>
-
-<p align="center">
+2. VOG Data#2<br/>
+<br/><p align="center">
   <img width="750" height="250" src="https://github.com/nphilip1098/pupiltrack-nystagmus/blob/main/results/ransacvsnormal1.png">
 </p>
 
