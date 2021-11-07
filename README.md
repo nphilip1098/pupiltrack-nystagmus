@@ -9,6 +9,9 @@ This repository contains a robust pupil tracking algorithm that incorporates RAN
   <img width="750" height="250" src="https://github.com/nphilip1098/pupiltrack-nystagmus/blob/main/results/ransacvnormal.png">
 </p>
 
+<p align="center">
+  <img width="750" height="250" src="https://github.com/nphilip1098/pupiltrack-nystagmus/blob/main/results/ransacvsnormal1.png">
+</p>
 
 <p align="center">
   <img width="750" height="250" src="https://github.com/nphilip1098/pupiltrack-nystagmus/blob/main/results/Pupiltracker.jpg">
