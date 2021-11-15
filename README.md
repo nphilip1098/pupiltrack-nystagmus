@@ -8,7 +8,7 @@ This repository contains a robust pupil tracking algorithm that incorporates RAN
 <br/><p align="center">
   <img width="750" height="250" src="https://github.com/nphilip1098/pupiltrack-nystagmus/blob/main/results/ransacvnormal.png">
 </p>
-2. VOG Data#2<br/>
+2. VOG Data#2 (Occlusion Scenario)<br/> 
 <br/><p align="center">
   <img width="750" height="250" src="https://github.com/nphilip1098/pupiltrack-nystagmus/blob/main/results/ransacvsnormal1.png">
 </p>
